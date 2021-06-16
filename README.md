@@ -18,5 +18,7 @@ You can find it [here](https://drive.google.com/drive/folders/139dUNn8Uxo3SdEEwM
 You can work in colab. All dependencies already installed there. Also [link](https://colab.research.google.com/drive/1d-VFBYgRHPumDNkgoQQhIlOxTPbI5cqg?usp=sharing) to my notebook.
 
 ### Learning curve and accuracy
+**test_accuracy** ~ 0.75 - 0.8
+
+
 ![img_1.png](img_1.png)
-**accuracy** ~ 0.75 - 0.8
