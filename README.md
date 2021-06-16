@@ -1,6 +1,7 @@
 ### Description
 Realization of U-net to find the car number plates on the photo.
 
+![img_3.png](img_3.png)
 ### Technologies
 1. [OpenCV](https://pypi.org/project/opencv-python/)
 2. [Keras](https://pypi.org/project/keras/)
@@ -18,6 +19,3 @@ You can work in colab. All dependencies already installed there. Also [link](htt
 
 ### Learning curve
 ![img.png](img.png)
-
-### Example of work
-![img_3.png](img_3.png)
